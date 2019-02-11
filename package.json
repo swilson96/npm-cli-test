@@ -4,8 +4,7 @@
   "description": "npm cli test",
   "main": "index.js",
   "bin": {
-    "simonwhat": "what.js",
-    "simonhello": "hello.sh"
+    "npm-cli-test": "what.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
