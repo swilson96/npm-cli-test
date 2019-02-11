@@ -1,0 +1,23 @@
+{
+  "name": "npm-cli-test",
+  "version": "1.0.0",
+  "description": "npm cli test",
+  "main": "index.js",
+  "bin": {
+    "simon-what": "what.js",
+    "simon-hello": "hello.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swilson96/npm-cli-test.git"
+  },
+  "author": "Simon Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swilson96/npm-cli-test/issues"
+  },
+  "homepage": "https://github.com/swilson96/npm-cli-test#readme"
+}
