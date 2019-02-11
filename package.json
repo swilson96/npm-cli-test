@@ -4,8 +4,7 @@
   "description": "npm cli test",
   "main": "index.js",
   "bin": {
-    "npm-cli-test": "./bin/what.js",
-    "simon-what": "./bin/hello.sh",
+    "simon-print-readme": "./bin/print-readme.js",
     "simon-hello": "./bin/hello.sh"
   },
   "scripts": {
